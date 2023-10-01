@@ -6,8 +6,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kuankuan2007/kuankuan2007/output/github-contribution-grid-snake.svg">
 </picture>
 
-| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuankuan2007&theme=transparent&layout=compact)           |
-| ---------------------------------------------------------------------------------------------------------------------------------- |
-| ![info](https://github-readme-stats.vercel.app/api?username=kuankuan2007&show_icons=true&theme=transparent&include_all_commits=true) |
+| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuankuan2007&theme=transparent&layout=compact) | ![info](https://github-readme-stats.vercel.app/api?username=kuankuan2007&show_icons=true&theme=transparent&include_all_commits=true) |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
 
 ![Languages](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kuankuan2007)
