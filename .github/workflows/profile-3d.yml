@@ -4,6 +4,7 @@ on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
+  push: {branches: ["master", "main"]}
 
 jobs:
   build:
@@ -21,4 +22,4 @@ jobs:
           git config user.email 2163826131@qq.com
           git add -A .
           git commit -m "generated"
-          git push
+          git push  
