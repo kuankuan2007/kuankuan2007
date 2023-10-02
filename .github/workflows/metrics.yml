@@ -30,6 +30,7 @@ jobs:
           user: kuankuan2007
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
           config_octicon: yes
           config_timezone: Asia/Shanghai
           config_twemoji: yes
@@ -81,7 +82,6 @@ jobs:
           plugin_screenshot_title: kuankuan2007
           plugin_screenshot_url: https://kuankuan2007.gitee.io/
           plugin_screenshot_viewport: "{\"width\": 1280,\"height\": 1280}"
-
           plugin_screenshot_wait: 1000
           plugin_stars: yes
           plugin_stars_limit: 2
