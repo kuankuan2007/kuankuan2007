@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    123k added, 45k removed
+                                    120k added, 44.8k removed
                                 </div>
                             </section>
                             <section>
@@ -321,7 +321,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 35.5 characters per line of code written</li>
+                        <li>Has approximately 36.0 characters per line of code written</li>
                         <li>Mostly pushes code around 02:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -592,38 +592,31 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,0,1,38.725,-70.002L0,0Z">
+                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,0,1,38.914,-69.898L0,0Z">
                                         <title>TypeScript
-6.61</title>
+6.63</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M39.597,-69.513A80,80,0,0,1,59.275,53.725L0,0Z">
+                                    <path fill="#f1e05a" d="M39.785,-69.406A80,80,0,0,1,58.737,54.313L0,0Z">
                                         <title>JavaScript
-23.70</title>
+23.74</title>
                                     </path>
-                                    <path fill="#41b883" d="M58.599,54.462A80,80,0,1,1,-2.647,-79.956L0,0Z">
+                                    <path fill="#41b883" d="M58.054,55.043A80,80,0,1,1,-0.5,-79.998L0,0Z">
                                         <title>Vue
-52.06</title>
-                                    </path>
-                                    <path fill="#563d7c" d="M-1.647,-79.983A80,80,0,0,1,-0.5,-79.998L0,0Z">
-                                        <title>CSS
-0.19</title>
+52.16</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(10.119760926216603,-38.69871365815949)">
+                                    <text transform="translate(10.171919749715737,-38.685036494817254)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
-                                        <tspan x="0" y="1.1em">6.61</tspan>
+                                        <tspan x="0" y="1.1em">6.63</tspan>
                                     </text>
-                                    <text transform="translate(39.49963142114232,-6.30706885913786)">
+                                    <text transform="translate(39.53876162514455,-6.056924066718707)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">23.70</tspan>
+                                        <tspan x="0" y="1.1em">23.74</tspan>
                                     </text>
-                                    <text transform="translate(-36.399646164511104,16.58510654468014)">
+                                    <text transform="translate(-36.698697272295306,15.912435970536535)">
                                         <tspan x="0" y="0em" font-weight="bold">Vue</tspan>
-                                        <tspan x="0" y="1.1em">52.06</tspan>
-                                    </text>
-                                    <text transform="translate(-0.5368795204678083,-39.99639684247198)">
-                                        <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
+                                        <tspan x="0" y="1.1em">52.16</tspan>
                                     </text>
                                 </g>
                             </svg>
@@ -1123,7 +1116,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mrs4s/go-cqhttp</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">cqhttp的golang实现，轻量、原生跨平台.</div>
@@ -1311,7 +1304,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Nov 2023, 11:13:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Nov 2023, 12:15:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
