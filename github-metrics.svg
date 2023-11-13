@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    122k added, 45.6k removed
+                                    120k added, 44.9k removed
                                 </div>
                             </section>
                             <section>
@@ -321,7 +321,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 35.6 characters per line of code written</li>
+                        <li>Has approximately 35.1 characters per line of code written</li>
                         <li>Mostly pushes code around 06:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -596,31 +596,31 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,0,1,40.684,-68.883L0,0Z">
+                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,0,1,42.32,-67.889L0,0Z">
                                         <title>TypeScript
-7.01</title>
+7.39</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M41.541,-68.369A80,80,0,0,1,67.104,43.556L0,0Z">
+                                    <path fill="#f1e05a" d="M43.166,-67.355A80,80,0,0,1,73.875,30.7L0,0Z">
                                         <title>JavaScript
-21.28</title>
+18.70</title>
                                     </path>
-                                    <path fill="#41b883" d="M66.554,44.391A80,80,0,1,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#41b883" d="M73.485,31.621A80,80,0,1,1,-0.5,-79.998L0,0Z">
                                         <title>Vue
-54.75</title>
+57.65</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(10.664302502190377,-38.55220683880206)">
+                                    <text transform="translate(11.124895267940541,-38.42182589723391)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
-                                        <tspan x="0" y="1.1em">7.01</tspan>
+                                        <tspan x="0" y="1.1em">7.39</tspan>
                                     </text>
-                                    <text transform="translate(38.99588894154961,-8.906213878990817)">
+                                    <text transform="translate(38.171781760480464,-11.95470941638696)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">21.28</tspan>
+                                        <tspan x="0" y="1.1em">18.70</tspan>
                                     </text>
-                                    <text transform="translate(-35.20997543457027,18.980453890699202)">
+                                    <text transform="translate(-33.340866569310556,22.099470953111748)">
                                         <tspan x="0" y="0em" font-weight="bold">Vue</tspan>
-                                        <tspan x="0" y="1.1em">54.75</tspan>
+                                        <tspan x="0" y="1.1em">57.65</tspan>
                                     </text>
                                 </g>
                             </svg>
@@ -1307,7 +1307,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2023, 08:59:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Nov 2023, 09:58:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
