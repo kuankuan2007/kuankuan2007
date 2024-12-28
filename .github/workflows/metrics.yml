@@ -80,7 +80,7 @@ jobs:
           plugin_screenshot_mode: image
           plugin_screenshot_selector: body
           plugin_screenshot_title: kuankuan2007
-          plugin_screenshot_url: https://kuankuan2007.gitee.io/
+          plugin_screenshot_url: https://www.kuankuan.site/
           plugin_screenshot_viewport: "{\"width\": 1280,\"height\": 1280}"
           plugin_screenshot_wait: 1000
           plugin_stars: yes
