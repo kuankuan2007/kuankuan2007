@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    174k added, 29.1k removed
+                                    123k added, 54.6k removed
                                 </div>
                             </section>
                             <section>
@@ -598,42 +598,42 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#C1F12E" d="M0.5,-79.998A80,80,0,0,1,7.57,-79.641L0,0Z">
+                                    <path fill="#C1F12E" d="M0.5,-79.998A80,80,0,0,1,7.549,-79.643L0,0Z">
                                         <title>Batchfile
 0.72</title>
                                     </path>
-                                    <path fill="#012456" d="M8.565,-79.54A80,80,0,0,1,18.254,-77.89L0,0Z">
+                                    <path fill="#012456" d="M8.544,-79.542A80,80,0,0,1,18.205,-77.901L0,0Z">
                                         <title>PowerShell
 1.00</title>
                                     </path>
-                                    <path fill="#89e051" d="M19.226,-77.655A80,80,0,0,1,25.55,-75.81L0,0Z">
+                                    <path fill="#89e051" d="M19.178,-77.667A80,80,0,0,1,25.484,-75.832L0,0Z">
                                         <title>Shell
 0.67</title>
                                     </path>
-                                    <path fill="#3572A5" d="M26.496,-75.485A80,80,0,1,1,-3.957,-79.902L0,0Z">
+                                    <path fill="#3572A5" d="M26.43,-75.508A80,80,0,1,1,-3.95,-79.902L0,0Z">
                                         <title>Python
-47.96</title>
+48.11</title>
                                     </path>
-                                    <path fill="#f34b7d" d="M-2.958,-79.945A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#f34b7d" d="M-2.951,-79.946A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>C++
 0.25</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(2.019454730649244,-39.94899000714359)">
+                                    <text transform="translate(2.0142289320665885,-39.94925383294694)">
                                         <tspan x="0" y="0em" font-weight="bold">Batchfile</tspan>
                                     </text>
-                                    <text transform="translate(6.71741413400314,-39.43192041167023)">
+                                    <text transform="translate(6.69993310187982,-39.43489440115613)">
                                         <tspan x="0" y="0em" font-weight="bold">PowerShell</tspan>
                                     </text>
-                                    <text transform="translate(11.203624713021451,-38.398942606402265)">
+                                    <text transform="translate(11.174948533832103,-38.407297812605925)">
                                         <tspan x="0" y="0em" font-weight="bold">Shell</tspan>
                                     </text>
-                                    <text transform="translate(-5.74186122858607,39.58574275710461)">
+                                    <text transform="translate(-5.726469842297939,39.58797220299686)">
                                         <tspan x="0" y="0em" font-weight="bold">Python</tspan>
-                                        <tspan x="0" y="1.1em">47.96</tspan>
+                                        <tspan x="0" y="1.1em">48.11</tspan>
                                     </text>
-                                    <text transform="translate(-0.864624879351739,-39.99065420592674)">
+                                    <text transform="translate(-0.8628084786446388,-39.990693436463175)">
                                         <tspan x="0" y="0em" font-weight="bold">C++</tspan>
                                     </text>
                                 </g>
@@ -885,7 +885,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        432
+                                        434
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1093,7 +1093,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 May 2025, 15:05:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 May 2025, 16:07:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
