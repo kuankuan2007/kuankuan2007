@@ -927,7 +927,7 @@
                                         <span>starred Apr 07 2025</span>
                                     </div>
                                 </div>
-                                <div class="field description">AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.</div>
+                                <div class="field description">AutoMQ is a diskless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1104,7 +1104,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jun 2025, 20:08:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jun 2025, 21:14:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
