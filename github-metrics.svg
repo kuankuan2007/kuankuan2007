@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1932" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1915" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.post{align-items:flex-start}.post .infos{display:flex;margin-bottom:4px}.post .infos .description,.post .infos .title{font-size:14px;white-space:normal;overflow:hidden;text-overflow:ellipsis;max-height:38px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.post .infos .description{margin-top:3px;font-size:12px;max-height:48px;color:#666;-webkit-line-clamp:3}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.repository,footer{display:flex;flex-direction:column}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    100k added, 35.5k removed
+                                    129k added, 53.3k removed
                                 </div>
                             </section>
                             <section>
@@ -322,12 +322,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 47 commits)</small>
+                    <small class="h-details">(computed from last 50 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 40.3 characters per line of code written</li>
+                        <li>Has approximately 40.6 characters per line of code written</li>
                         <li>Mostly pushes code around 14:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -451,8 +451,8 @@
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,105L29.565,81.25L49.13,57.5L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,57.5L283.913,10L303.478,81.25L323.043,81.25L342.609,105L362.174,105L381.739,105L401.304,105L420.87,97.083L440.435,10L460,97.083" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,97.083L440.435,10L420.87,97.083L401.304,105L381.739,105L362.174,105L342.609,105L323.043,81.25L303.478,81.25L283.913,10L264.348,57.5L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,57.5L29.565,81.25L10,105Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,81.25L49.13,57.5L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,57.5L283.913,10L303.478,81.25L323.043,81.25L342.609,105L362.174,105L381.739,105L401.304,105L420.87,97.083L440.435,10L460,73.333" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,73.333L440.435,10L420.87,97.083L401.304,105L381.739,105L362.174,105L342.609,105L323.043,81.25L303.478,81.25L283.913,10L264.348,57.5L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,57.5L29.565,81.25L10,105Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="29.565217391304348" cy="81.25" r="2" fill="#106cbc"/>
@@ -477,7 +477,7 @@
                                 <circle transform="translate(10,10)" cx="401.30434782608694" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="420.8695652173913" cy="97.08333333333333" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="440.4347826086956" cy="10" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="460" cy="97.08333333333333" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="460" cy="73.33333333333334" r="2" fill="#106cbc"/>
                             </g>
                             <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
                                 <text transform="translate(10,6)" x="10" y="105" fill="rgba(127, 127, 127, .8)"/>
@@ -503,7 +503,7 @@
                                 <text transform="translate(10,6)" x="401.30434782608694" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="420.8695652173913" y="97.08333333333333" fill="rgba(127, 127, 127, .8)">1</text>
                                 <text transform="translate(10,6)" x="440.4347826086956" y="10" fill="rgba(127, 127, 127, .8)">12</text>
-                                <text transform="translate(10,6)" x="460" y="97.08333333333333" fill="rgba(127, 127, 127, .8)">1</text>
+                                <text transform="translate(10,6)" x="460" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">4</text>
                             </g>
                         </svg>
                     </div>
@@ -545,15 +545,19 @@
                                     </g>
                                 </g>
                                 <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
-                                    <g class="tick" opacity="1" transform="translate(0,26.33333333333333)">
+                                    <g class="tick" opacity="1" transform="translate(0,15.023809523809529)">
+                                        <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
+                                        <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">20</text>
+                                    </g>
+                                    <g class="tick" opacity="1" transform="translate(0,37.642857142857146)">
                                         <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">15</text>
                                     </g>
-                                    <g class="tick" opacity="1" transform="translate(0,52.72222222222222)">
+                                    <g class="tick" opacity="1" transform="translate(0,60.26190476190476)">
                                         <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">10</text>
                                     </g>
-                                    <g class="tick" opacity="1" transform="translate(0,79.1111111111111)">
+                                    <g class="tick" opacity="1" transform="translate(0,82.88095238095238)">
                                         <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">5</text>
                                     </g>
@@ -562,25 +566,25 @@
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,25.833L41,78.611L72,89.167L103,10L134,105L165,99.722L196,78.611" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,78.611L165,99.722L134,105L103,10L72,89.167L41,78.611L10,25.833Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,37.143L41,82.381L72,91.429L103,10L134,105L165,100.476L196,82.381" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,82.381L165,100.476L134,105L103,10L72,91.429L41,82.381L10,37.143Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
-                                    <circle transform="translate(10,10)" cx="10" cy="25.83333333333333" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="41" cy="78.6111111111111" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="72" cy="89.16666666666667" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="10" cy="37.142857142857146" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="41" cy="82.38095238095238" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="72" cy="91.42857142857143" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="103" cy="10" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="134" cy="105" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="165" cy="99.72222222222221" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="196" cy="78.6111111111111" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="165" cy="100.47619047619048" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="196" cy="82.38095238095238" r="2" fill="#106cbc"/>
                                 </g>
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                    <text transform="translate(10,6)" x="10" y="25.83333333333333" fill="rgba(127, 127, 127, .8)">15</text>
-                                    <text transform="translate(10,6)" x="41" y="78.6111111111111" fill="rgba(127, 127, 127, .8)">5</text>
-                                    <text transform="translate(10,6)" x="72" y="89.16666666666667" fill="rgba(127, 127, 127, .8)">3</text>
-                                    <text transform="translate(10,6)" x="103" y="10" fill="rgba(127, 127, 127, .8)">18</text>
+                                    <text transform="translate(10,6)" x="10" y="37.142857142857146" fill="rgba(127, 127, 127, .8)">15</text>
+                                    <text transform="translate(10,6)" x="41" y="82.38095238095238" fill="rgba(127, 127, 127, .8)">5</text>
+                                    <text transform="translate(10,6)" x="72" y="91.42857142857143" fill="rgba(127, 127, 127, .8)">3</text>
+                                    <text transform="translate(10,6)" x="103" y="10" fill="rgba(127, 127, 127, .8)">21</text>
                                     <text transform="translate(10,6)" x="134" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                    <text transform="translate(10,6)" x="165" y="99.72222222222221" fill="rgba(127, 127, 127, .8)">1</text>
-                                    <text transform="translate(10,6)" x="196" y="78.6111111111111" fill="rgba(127, 127, 127, .8)">5</text>
+                                    <text transform="translate(10,6)" x="165" y="100.47619047619048" fill="rgba(127, 127, 127, .8)">1</text>
+                                    <text transform="translate(10,6)" x="196" y="82.38095238095238" fill="rgba(127, 127, 127, .8)">5</text>
                                 </g>
                             </svg>
                         </div>
@@ -590,49 +594,49 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#3572A5" d="M0.5,-79.998A80,80,0,1,1,-51.521,-61.202L0,0Z">
+                                    <path fill="#3572A5" d="M0.5,-79.998A80,80,0,1,1,-48.297,-63.777L0,0Z">
                                         <title>Python
-77.43</title>
+78.40</title>
                                     </path>
-                                    <path fill="#012456" d="M-50.752,-61.841A80,80,0,0,1,-48.721,-63.453L0,0Z">
+                                    <path fill="#012456" d="M-47.496,-64.375A80,80,0,0,1,-45.533,-65.778L0,0Z">
                                         <title>PowerShell
-0.45</title>
+0.42</title>
                                     </path>
-                                    <path fill="#c6538c" d="M-47.924,-64.057A80,80,0,0,1,-32.444,-73.126L0,0Z">
+                                    <path fill="#c6538c" d="M-44.707,-66.342A80,80,0,0,1,-30.188,-74.086L0,0Z">
                                         <title>SCSS
-3.12</title>
+2.87</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-31.527,-73.526A80,80,0,0,1,-25.991,-75.66L0,0Z">
+                                    <path fill="#f1e05a" d="M-29.26,-74.457A80,80,0,0,1,-24.117,-76.278L0,0Z">
                                         <title>JavaScript
-1.03</title>
+0.95</title>
                                     </path>
-                                    <path fill="#e34c26" d="M-25.043,-75.979A80,80,0,0,1,-19.51,-77.584L0,0Z">
+                                    <path fill="#e34c26" d="M-23.162,-76.574A80,80,0,0,1,-18.057,-77.935L0,0Z">
                                         <title>HTML
-1.00</title>
+0.92</title>
                                     </path>
-                                    <path fill="#663399" d="M-18.539,-77.822A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#663399" d="M-17.082,-78.155A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>CSS
-3.16</title>
+2.91</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(13.593244406667427,37.61945914683788)">
+                                    <text transform="translate(12.618582263788747,37.95749440692834)">
                                         <tspan x="0" y="0em" font-weight="bold">Python</tspan>
-                                        <tspan x="0" y="1.1em">77.43</tspan>
+                                        <tspan x="0" y="1.1em">78.40</tspan>
                                     </text>
-                                    <text transform="translate(-24.87134661361761,-31.327561629103723)">
+                                    <text transform="translate(-23.25980331289369,-32.541996709567464)">
                                         <tspan x="0" y="0em" font-weight="bold">PowerShell</tspan>
                                     </text>
-                                    <text transform="translate(-20.21947699644898,-34.51337059735068)">
+                                    <text transform="translate(-18.823661732108576,-35.29404707589017)">
                                         <tspan x="0" y="0em" font-weight="bold">SCSS</tspan>
                                     </text>
-                                    <text transform="translate(-14.389475576523644,-37.322151500585136)">
+                                    <text transform="translate(-13.351966629988826,-37.705768618497416)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
                                     </text>
-                                    <text transform="translate(-11.1455481980379,-38.41583990185838)">
+                                    <text transform="translate(-10.310353555652386,-38.64837137005188)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
                                     </text>
-                                    <text transform="translate(-4.790709247481103,-39.71207756975325)">
+                                    <text transform="translate(-4.419475789797485,-39.75510324151345)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
                                     </text>
                                 </g>
@@ -1092,6 +1096,148 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">kuankuan2007/do-folder</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature_hashing_improve</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#486cc8f</div>
+                                        <div class="message">Abandon support for Python 3.8</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 39 commits in
+                                        <span class="repo">kuankuan2007/do-folder</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature_hashing_improve</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#132ccf9</div>
+                                        <div class="message">Change the `unExistsMode` parameter in the `Directory` class from `CREATE` to `ERROR` to enhance the strictness of error handling.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2fb29a3</div>
+                                        <div class="message">Change the unExistsMode parameter in the Directory class from WARN to ERROR to enhance the strictness of error handling.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#62a3acc</div>
+                                        <div class="message">Update the documentation of the Directory class, adding suggestions and explanations for the use of the div operator.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34a175a</div>
+                                        <div class="message">add logo to doc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#755d435</div>
+                                        <div class="message">Separate the collection of environmental information into a separate module</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54c64d3</div>
+                                        <div class="message">Merge tag 'v2.2.4'
+
+v2.2.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b8a4df</div>
+                                        <div class="message">change version tag to 2.2.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53c11a4</div>
+                                        <div class="message">Merge tag 'v2.2.3'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2610a9</div>
+                                        <div class="message">Optimize comments and documentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93444f4</div>
+                                        <div class="message">add readthedocs supports
+
+Signed-off-by: kuankuan2007 &lt;2163826131@qq.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26a994a</div>
+                                        <div class="message">Remove the dependency on mypy</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#863f12a</div>
+                                        <div class="message">chang version to 2.3.0-alpha.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a819b41</div>
+                                        <div class="message">edit doc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#086958b</div>
+                                        <div class="message">add -v option</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eca2518</div>
+                                        <div class="message">Move tools such as buildDoc into the tools directory</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4f908a</div>
+                                        <div class="message">Fixed the versionadded of the compare sub-module in the old version of the document (how could I get this wrong?)
+
+Signed-off-by: kuankuan2007 &lt;2163826131@qq.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f8614b</div>
+                                        <div class="message">change version to 2.3.0-alpha.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9566d8</div>
+                                        <div class="message">Load the version information dynamically</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#999ed9f</div>
+                                        <div class="message">fix the `invalid-name` warning of __main__.py</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4741365</div>
+                                        <div class="message">Add (Restore) the cli: do-compare</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 13 commits in
+                                        <span class="repo">kuankuan2007/do-folder</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3e1120f</div>
+                                        <div class="message">Merge branch 'v2.2'</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">kuankuan2007/do-folder</span>
                                     </div>
@@ -1129,146 +1275,6 @@
                                     <div class="commit">
                                         <div class="sha">#505ab5d</div>
                                         <div class="message">Update the Python version matrix and remove the Python 3.8 version that is no longer supported.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">kuankuan2007/do-folder</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">v2.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d7eeac8</div>
-                                        <div class="message">Merge commit 'da64ceb1e9d8fd4ede1045af90a6ce7f2e96163d' into v2.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da64ceb</div>
-                                        <div class="message">Merge commit '666135a7be1d2583af8b8f2166d424a6b9047fc7' into feature_directory-div-operators</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7646018</div>
-                                        <div class="message">fix merge bugs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6dce1e8</div>
-                                        <div class="message">Merge commit 'e469a33c5fa397adb2b00e2dfe26e58233f01105' into feature_directory-div-operators</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#925c40d</div>
-                                        <div class="message">Add tests for creating subdirectories in TestFileSystem to verify the correctness of the double slash operator.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#132ccf9</div>
-                                        <div class="message">Change the `unExistsMode` parameter in the `Directory` class from `CREATE` to `ERROR` to enhance the strictness of error handling.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fb29a3</div>
-                                        <div class="message">Change the unExistsMode parameter in the Directory class from WARN to ERROR to enhance the strictness of error handling.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62a3acc</div>
-                                        <div class="message">Update the documentation of the Directory class, adding suggestions and explanations for the use of the div operator.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 14 commits in
-                                        <span class="repo">kuankuan2007/do-folder</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature_directory-div-operators</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#da64ceb</div>
-                                        <div class="message">Merge commit '666135a7be1d2583af8b8f2166d424a6b9047fc7' into feature_directory-div-operators</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#666135a</div>
-                                        <div class="message">Update pylintrc.toml and add regular expression-based ignore rules for the venv directory.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7646018</div>
-                                        <div class="message">fix merge bugs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6dce1e8</div>
-                                        <div class="message">Merge commit 'e469a33c5fa397adb2b00e2dfe26e58233f01105' into feature_directory-div-operators</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e469a33</div>
-                                        <div class="message">Update the .gitignore file to support matching multiple virtual environment directories</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4329e3</div>
-                                        <div class="message">move test_hash, test_hash_calculator, test_threaded_hash_calculator to a new class TestHashing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5965ca</div>
-                                        <div class="message">add logo to doc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62b71d3</div>
-                                        <div class="message">post 2.2.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac2dc22</div>
-                                        <div class="message">change version tag to 2.2.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd0d38e</div>
-                                        <div class="message">Add tests for creating subdirectories in TestFileSystem to verify the correctness of the double slash operator.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9023243</div>
-                                        <div class="message">Change the `unExistsMode` parameter in the `Directory` class from `CREATE` to `ERROR` to enhance the strictness of error handling.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d12ebf</div>
-                                        <div class="message">Change the unExistsMode parameter in the Directory class from WARN to ERROR to enhance the strictness of error handling.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48f2ea7</div>
-                                        <div class="message">Update the documentation of the Directory class, adding suggestions and explanations for the use of the div operator.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4528f2f</div>
-                                        <div class="message">Update the kspinx version to 0.2.1</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">kuankuan2007/do-folder</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">v2.2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#666135a</div>
-                                        <div class="message">Update pylintrc.toml and add regular expression-based ignore rules for the venv directory.</div>
                                     </div>
                                 </div>
                             </section>
@@ -1317,7 +1323,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Aug 2025, 00:06:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Aug 2025, 01:05:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
