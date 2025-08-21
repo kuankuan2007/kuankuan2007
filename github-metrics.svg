@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    303k added, 69.5k removed
+                                    245k added, 43.5k removed
                                 </div>
                             </section>
                             <section>
@@ -594,49 +594,49 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#3572A5" d="M0.5,-79.998A80,80,0,1,1,-47.595,-64.302L0,0Z">
+                                    <path fill="#3572A5" d="M0.5,-79.998A80,80,0,1,1,-48.138,-63.896L0,0Z">
                                         <title>Python
-78.38</title>
+78.48</title>
                                     </path>
-                                    <path fill="#012456" d="M-46.787,-64.892A80,80,0,0,1,-44.805,-66.276L0,0Z">
+                                    <path fill="#012456" d="M-47.335,-64.493A80,80,0,0,1,-45.418,-65.858L0,0Z">
                                         <title>PowerShell
-0.42</title>
+0.41</title>
                                     </path>
-                                    <path fill="#c6538c" d="M-43.973,-66.831A80,80,0,0,1,-29.014,-74.553L0,0Z">
+                                    <path fill="#c6538c" d="M-44.591,-66.42A80,80,0,0,1,-30.12,-74.113L0,0Z">
                                         <title>SCSS
-2.93</title>
+2.86</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-28.08,-74.91A80,80,0,0,1,-22.788,-76.686L0,0Z">
+                                    <path fill="#f1e05a" d="M-29.191,-74.484A80,80,0,0,1,-24.05,-76.299L0,0Z">
                                         <title>JavaScript
-0.97</title>
+0.95</title>
                                     </path>
-                                    <path fill="#e34c26" d="M-21.827,-76.965A80,80,0,0,1,-16.745,-78.228L0,0Z">
+                                    <path fill="#e34c26" d="M-23.095,-76.594A80,80,0,0,1,-17.992,-77.951L0,0Z">
                                         <title>HTML
-0.91</title>
+0.92</title>
                                     </path>
-                                    <path fill="#663399" d="M-15.765,-78.431A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#663399" d="M-17.016,-78.169A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>CSS
-2.67</title>
+2.90</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(12.410457687930485,38.02605080699398)">
+                                    <text transform="translate(12.571363611784044,37.973159164603516)">
                                         <tspan x="0" y="0em" font-weight="bold">Python</tspan>
-                                        <tspan x="0" y="1.1em">78.38</tspan>
+                                        <tspan x="0" y="1.1em">78.48</tspan>
                                     </text>
-                                    <text transform="translate(-22.900786650153083,-32.7956395089983)">
+                                    <text transform="translate(-23.19076281801934,-32.59123378944669)">
                                         <tspan x="0" y="0em" font-weight="bold">PowerShell</tspan>
                                     </text>
-                                    <text transform="translate(-18.348755283421415,-35.5432578634699)">
+                                    <text transform="translate(-18.776556348387523,-35.31912982642449)">
                                         <tspan x="0" y="0em" font-weight="bold">SCSS</tspan>
                                     </text>
-                                    <text transform="translate(-12.724683471512318,-37.92205730903614)">
+                                    <text transform="translate(-13.318170809503375,-37.71771899636684)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
                                     </text>
-                                    <text transform="translate(-9.648150256884362,-38.81897985033329)">
+                                    <text transform="translate(-10.277213906406349,-38.65719692789388)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
                                     </text>
-                                    <text transform="translate(-4.085204630648907,-39.790841950450414)">
+                                    <text transform="translate(-4.402812411223072,-39.756952132571485)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
                                     </text>
                                 </g>
@@ -980,7 +980,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GitSquared/edex-ui</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cross-platform, customizable science fiction terminal emulator with advanced monitoring &amp; touchscreen support.</div>
@@ -1033,7 +1033,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>swisskyrepo/PayloadsAllTheThings</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A list of useful payloads and bypass for Web Application Security and Pentest/CTF</div>
@@ -1316,7 +1316,7 @@ Signed-off-by: kuankuan2007 &lt;2163826131@qq.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Aug 2025, 20:08:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Aug 2025, 21:13:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
