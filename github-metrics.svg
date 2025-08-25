@@ -39,11 +39,11 @@
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1493 Commits
+                            1522 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    111k added, 41.6k removed
+                                    316k added, 70.6k removed
                                 </div>
                             </section>
                             <section>
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="244.44404476252657" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="244.44404476252657" y="0" width="233.34619015340854" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="477.7902349159352" y="0" width="179.73110879156982" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="657.521343707505" y="0" width="74.05089637333711" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="731.5722400808421" y="0" width="73.11021379055097" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="804.6824538713931" y="0" width="64.45851648237402" height="8" fill="#141AC9"/>
-                    <rect mask="url(#languages-bar)" x="869.1409703537671" y="0" width="37.29206259434688" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="906.433032948114" y="0" width="13.566967051886104" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="255.66664792332267" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="255.66664792332267" y="0" width="229.46975079872206" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="485.1363987220447" y="0" width="176.7453444089457" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="661.8817431309903" y="0" width="72.82073354632587" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="734.7024766773163" y="0" width="71.89567795527157" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="806.5981546325879" y="0" width="63.38770607028755" height="8" fill="#141AC9"/>
+                    <rect mask="url(#languages-bar)" x="869.9858607028755" y="0" width="36.67255207667731" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="906.6584127795528" y="0" width="13.341587220447284" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -594,49 +594,49 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#3572A5" d="M0.5,-79.998A80,80,0,1,1,-42.749,-67.62L0,0Z">
+                                    <path fill="#3572A5" d="M0.5,-79.998A80,80,0,1,1,-42.87,-67.544L0,0Z">
                                         <title>Python
-78.83</title>
+78.75</title>
                                     </path>
-                                    <path fill="#012456" d="M-41.9,-68.15A80,80,0,0,1,-40.058,-69.248L0,0Z">
+                                    <path fill="#012456" d="M-42.023,-68.074A80,80,0,0,1,-40.181,-69.177L0,0Z">
                                         <title>PowerShell
 0.37</title>
                                     </path>
-                                    <path fill="#c6538c" d="M-39.189,-69.744A80,80,0,0,1,-25.816,-75.72L0,0Z">
+                                    <path fill="#c6538c" d="M-39.313,-69.674A80,80,0,0,1,-25.886,-75.696L0,0Z">
                                         <title>SCSS
-2.53</title>
+2.54</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-24.867,-76.037A80,80,0,0,1,-20.195,-77.409L0,0Z">
+                                    <path fill="#f1e05a" d="M-24.937,-76.014A80,80,0,0,1,-20.263,-77.391L0,0Z">
                                         <title>JavaScript
 0.84</title>
                                     </path>
-                                    <path fill="#e34c26" d="M-19.226,-77.655A80,80,0,0,1,-14.75,-78.628L0,0Z">
+                                    <path fill="#e34c26" d="M-19.294,-77.638A80,80,0,0,1,-14.817,-78.616L0,0Z">
                                         <title>HTML
 0.79</title>
                                     </path>
-                                    <path fill="#663399" d="M-13.766,-78.807A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#663399" d="M-13.833,-78.795A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>CSS
-2.30</title>
+2.31</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(11.006210708622488,38.455992066743036)">
+                                    <text transform="translate(11.04076809891847,38.44608484339991)">
                                         <tspan x="0" y="0em" font-weight="bold">Python</tspan>
-                                        <tspan x="0" y="1.1em">78.83</tspan>
+                                        <tspan x="0" y="1.1em">78.75</tspan>
                                     </text>
-                                    <text transform="translate(-20.49144291073365,-34.352594770062765)">
+                                    <text transform="translate(-20.552835200578766,-34.31589959796844)">
                                         <tspan x="0" y="0em" font-weight="bold">PowerShell</tspan>
                                     </text>
-                                    <text transform="translate(-16.31977559553359,-36.519377383950925)">
+                                    <text transform="translate(-16.36912716840208,-36.49728312826423)">
                                         <tspan x="0" y="0em" font-weight="bold">SCSS</tspan>
                                     </text>
-                                    <text transform="translate(-11.270721068507996,-38.37930232033785)">
+                                    <text transform="translate(-11.305394597622215,-38.369102843199954)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
                                     </text>
-                                    <text transform="translate(-8.497526289688713,-39.08698053004414)">
+                                    <text transform="translate(-8.53122241360332,-39.07963976458371)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
                                     </text>
-                                    <text transform="translate(-3.579044633944737,-39.83955872632416)">
+                                    <text transform="translate(-3.595818670647391,-39.83804824646689)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
                                     </text>
                                 </g>
@@ -957,8 +957,8 @@
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                                 <g transform="translate(510, 0)">
@@ -1252,7 +1252,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2025, 23:05:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Aug 2025, 00:06:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
