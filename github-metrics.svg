@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    398k added, 103k removed
+                                    227k added, 86k removed
                                 </div>
                             </section>
                             <section>
@@ -590,42 +590,42 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#012456" d="M0.5,-79.998A80,80,0,0,1,5.002,-79.843L0,0Z">
+                                    <path fill="#012456" d="M0.5,-79.998A80,80,0,0,1,5.39,-79.818L0,0Z">
                                         <title>PowerShell
-0.78</title>
+0.84</title>
                                     </path>
-                                    <path fill="#3572A5" d="M6,-79.775A80,80,0,1,1,-6.842,-79.707L0,0Z">
+                                    <path fill="#3572A5" d="M6.387,-79.745A80,80,0,1,1,-7.103,-79.684L0,0Z">
                                         <title>Python
-84.79</title>
+83.96</title>
                                     </path>
-                                    <path fill="#c6538c" d="M-5.845,-79.786A80,80,0,0,1,-4.116,-79.894L0,0Z">
+                                    <path fill="#c6538c" d="M-6.106,-79.767A80,80,0,0,1,-4.304,-79.884L0,0Z">
                                         <title>SCSS
-0.30</title>
+0.31</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M-3.117,-79.939A80,80,0,0,1,-2.828,-79.95L0,0Z">
+                                    <path fill="#f1e05a" d="M-3.305,-79.932A80,80,0,0,1,-2.956,-79.945L0,0Z">
                                         <title>JavaScript
-0.05</title>
+0.06</title>
                                     </path>
-                                    <path fill="#e34c26" d="M-1.828,-79.979A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#e34c26" d="M-1.956,-79.976A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>HTML
-0.23</title>
+0.25</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(1.376167035262973,-39.976320044384465)">
+                                    <text transform="translate(1.4731216448334532,-39.97286470369022)">
                                         <tspan x="0" y="0em" font-weight="bold">PowerShell</tspan>
                                     </text>
-                                    <text transform="translate(0.21116859277122652,39.99944259393407)">
+                                    <text transform="translate(0.17957074602741982,39.999596927308794)">
                                         <tspan x="0" y="0em" font-weight="bold">Python</tspan>
-                                        <tspan x="0" y="1.1em">84.79</tspan>
+                                        <tspan x="0" y="1.1em">83.96</tspan>
                                     </text>
-                                    <text transform="translate(-2.490359173517143,-39.92240112000879)">
+                                    <text transform="translate(-2.6026992473395874,-39.91523464327747)">
                                         <tspan x="0" y="0em" font-weight="bold">SCSS</tspan>
                                     </text>
-                                    <text transform="translate(-1.4861754431498808,-39.97238149713097)">
+                                    <text transform="translate(-1.565236834186059,-39.96936368836646)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
                                     </text>
-                                    <text transform="translate(-0.5821344389495138,-39.99576376936674)">
+                                    <text transform="translate(-0.6140993405213938,-39.99528574719739)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
                                     </text>
                                 </g>
@@ -1231,7 +1231,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Aug 2025, 12:05:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Aug 2025, 13:05:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
