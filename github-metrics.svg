@@ -670,7 +670,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coderamp-labs/gitingest</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase</div>
@@ -723,7 +723,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ahmedkhaleel2004/gitdiagram</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.</div>
@@ -830,7 +830,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Oct 2026, 01:10:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Oct 2026, 02:15:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
