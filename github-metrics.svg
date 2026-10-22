@@ -687,7 +687,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>getopenscreen/openscreen</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.</div>
@@ -740,7 +740,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coderamp-labs/gitingest</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase</div>
@@ -847,7 +847,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Oct 2026, 01:09:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Oct 2026, 02:13:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
